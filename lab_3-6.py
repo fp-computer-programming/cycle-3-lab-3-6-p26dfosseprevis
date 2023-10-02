@@ -10,3 +10,7 @@ print("I\'m loving this short story I\'m reading, \"The Fall of the House of Ush
 print(len("I\'m loving this short story I\'m reading, \"The Fall of the House of Usher\" "))
 #Write a statement using the index operator that returns the "L" in "apple"
 print("apple"[3])
+
+
+#Sorry if this dosent run I was testing this with my instructor and it for some ungodly reson it only 
+#works in debugmode. Our running theroy is that there is a ghost of a dead rubber duck in my computor
